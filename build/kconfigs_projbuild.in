@@ -1,0 +1,7 @@
+source "D:/espressif/frameworks/esp-idf-v4.4/components/app_update/Kconfig.projbuild"
+source "D:/espressif/frameworks/esp-idf-v4.4/components/bootloader/Kconfig.projbuild"
+source "D:/espressif/frameworks/esp-idf-v4.4/components/esp_rom/Kconfig.projbuild"
+source "D:/espressif/frameworks/esp-idf-v4.4/components/esptool_py/Kconfig.projbuild"
+source "D:/espressif/frameworks/esp-idf-v4.4/components/partition_table/Kconfig.projbuild"
+source "C:/Users/Administrator/Desktop/Blog/ESP32+MQTT/tcp/main/Kconfig.projbuild"
+source "D:/espressif/frameworks/esp-idf-v4.4/examples/common_components/protocol_examples_common/Kconfig.projbuild"
